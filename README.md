@@ -1,9 +1,9 @@
 ## Table of contents
 - [Ethical-hacking](#Ethical-hacking)
 - [Introduction](#introduction)
-	- [What you need to know.](#what-you-need-to-know)
+	- [Youtubers](#youtubers)
 	- [Where to practice ?](#where-to-practice-)
-		- [Youtubers](#youtubers)
+		- 
 		- [Platforms](#platforms)
 - [Before Hacking](#before-hacking)
 - [Steps of Pen-Testing](#steps-of-pen-testing)
@@ -96,8 +96,7 @@ Here's a simple list of things you should and shouldn't do in order to imporve :
 -	Twitter, as dumb as this idea looks, but I'd really recommend you to have a twitter account, and follow communities related to cyber security. Staying up to date with the world is not such a bad idea after all.
 -	Last but not least, don't learn hacking for wrong reasons. Don't waste your time if your goal is to hack your girlfriends Facebook account. Set a goal, no matter how big it looks like, and chase it. [Dreams without goals are the ultimate fuel of disappointment](https://www.youtube.com/watch?v=TssZmJaoZs4&t=180s).
 
-## Where to practice ?
-Here you will find multiple resources to learn and practice hacking.
+
 
 ### Youtubers
 Here's a list of one the best youtubers I personally follow.
@@ -138,10 +137,10 @@ Here's the list with the content reformatted as requested:
 | PwnFunction | ... | [link](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A) |
 | GetCyber | ... | [link](https://www.youtube.com/@GetCyber/videos) |
 
-I've formatted the table according to your desired style. If you have specific descriptions for each channel, feel free to replace the "..." with the appropriate information.
 
-
-### Platforms
+# Where to practice ?
+Here you will find multiple resources to learn and practice hacking.
+## Platforms
 Here's where you can learn and practice at the same time.
 | Name		    | Description																				 | Link  |
 | :-----------: |:------------------------------------------------------------------------------------------:| :----:|
@@ -174,7 +173,7 @@ Go ahead a knock yourself out.
 # Before Hacking
 There are certain things you need to learn before even diving into hacking. Here's a list you should definetly check out.
 
-## Languages
+# Languages
 Many might think that programming is not really necessary in hacking, [they're not just wrong they're stupid](https://www.youtube.com/watch?v=40Pvi1XVm_s).
 But you need to know that not all programming languages serve the same purpose. There are different types, you should learn at least one language in each category. Let's go ahead and check them out.
 
