@@ -19,7 +19,7 @@
 	- [Additional resources](#Additional-resources)
  		- [Malware Analysis](#Malware-Analysis)
    		- [Linux Penetration Testing OS](#Linux-Penetration-Testing-OS)
-   		- Courses[Courses](#Courses)
+   		- [Courses](#Courses)
   		- [Workshops/Playlists](#Workshops/Playlists)
   		- [Security Talks and Conferences](#Security-Talks-and-Conferences)
   		- [Forums](#Forums)
