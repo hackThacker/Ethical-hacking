@@ -16,13 +16,13 @@
 	- [Tools](#tools)
 - [Testing](#Testing)
 - [Tools and resouces](#Tools-and-resouces)
-	- # Additional resources
- 		- # Malware Analysis
-   		- # Linux Penetration Testing OS
-   		- # Courses
-  		- # Workshops/Playlists
-  		- # Security Talks and Conferences
-  		- # Forums
+	- [Additional resources](#Additional-resources)
+ 		- [Malware Analysis](#Malware-Analysis)
+   		- [Linux Penetration Testing OS](#Linux-Penetration-Testing-OS)
+   		- Courses[Courses](#Courses)
+  		- [Workshops/Playlists](#Workshops/Playlists)
+  		- [Security Talks and Conferences](#Security-Talks-and-Conferences)
+  		- [Forums](#Forums)
 
 
 # Ethical-hacking
