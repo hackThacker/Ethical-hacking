@@ -110,6 +110,34 @@ Here's a list of one the best youtubers I personally follow.
 | NetworkChuck  | If you are looking where to learn very basic stuff with a fun way, this guy is yours.		 | [Link](https://www.youtube.com/c/NetworkChuck) |
 | CryptoCat		| Although this channel is newly, it has some really great content you definetly should check | [link](https://www.youtube.com/c/CryptoCat23) |
 | HackerSploit  | This one explains tools, and does HackTheBox retired machines. And also does real life scenarios hacking | [Link](https://www.youtube.com/c/HackerSploit) |
+| Black Hat | ... | [link](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg) |
+| Injector Pca | ... | [link](https://www.youtube.com/channel/UCRFG_j0cgLWtJOG6fl_-rxQ) |
+| Hisham Mir | ... | [link](https://www.youtube.com/channel/UCYTK8lk8oLLaA330rqd0qgA) |
+| Devil Killer | ... | [link](https://www.youtube.com/channel/UCwfYw-C2xqemqrXq0IKF_Mg) |
+| Suleman Malik | ... | [link](https://www.youtube.com/channel/UC59IHQcCmgNw4GIvsXeLnDQ) |
+| Dem0n | ... | [link](https://www.youtube.com/channel/UC_jNs1biBixcQeSUoJxvNLw) |
+| Frans Rosén | ... | [link](https://www.youtube.com/channel/UCV89UhUtxqwP0j4o9tMipsA) |
+| HackerOne | ... | [link](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw) |
+| ak1t4 machine | ... | [link](https://www.youtube.com/channel/UCaftcKRiJJW0AJHmR1E5MAQ) |
+| Shawar Khan | ... | [link](https://www.youtube.com/channel/UCPxJLZCoIRJHs1VebWeaByA) |
+| vulnerability0lab | ... | [link](https://www.youtube.com/channel/UC4QJ7X4nnkAYXsnFQpdytcA) |
+| Bugcrowd | ... | [link](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww) |
+| Vijay Kumar | ... | [link](https://www.youtube.com/channel/UCs2NmJGRecw_huNzvQNf2_A) |
+| Web Development Tutorials | ... | [link](https://www.youtube.com/channel/UCS0y5e-AMsZO8GEFtKBAzkA) |
+| Jan Wikholm | ... | [link](https://www.youtube.com/channel/UCOQtLXVJduZ4-YUFOi5EzIA) |
+| Bhargav Tandel | ... | [link](https://www.youtube.com/channel/UCh5MTJLt3LYr_rkwcOQJNWg) |
+| ErrOr SquaD | ... | [link](https://www.youtube.com/channel/UCou-7r8Mk4oQcBmazxp5uwg) |
+| SecurityIdiots | ... | [link](https://www.youtube.com/channel/UCPPAYs04kwfXcHnerm_ueFw) |
+| Penetration Testing in Linux | ... | [link](https://www.youtube.com/channel/UC286ntgASMskhPIJQebJVvA) |
+| Hussnain Fareed | ... | [link](https://www.youtube.com/channel/UCbq5fgcqUz-PlMs3RCOUrXw) |
+| Null Byte | ... | [link](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g) |
+| ZAID | ... | [link](https://www.youtube.com/user/zaidsabeeh) |
+| vabs tutorial | ... | [link](https://www.youtube.com/channel/UCa0wCQEB8CRKzjJV2GZ_EzA) |
+| the cyber mentor | ... | [link](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw) |
+| PwnFunction | ... | [link](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A) |
+| GetCyber | ... | [link](https://www.youtube.com/@GetCyber/videos) |
+
+
 
 ### Platforms
 Here's where you can learn and practice at the same time.
@@ -123,23 +151,21 @@ Here's where you can learn and practice at the same time.
 | HackThisSite	| Free platform for hackers to test and expand their knowledge with CTFs, challenges and many more | [HackThisSite](https://www.hackthissite.org/) |
 | Hacker101		| Free class for web security. Whether you're a programmer with an interest in bug bounties or a seasoned security professional | [Hacker101](https://www.hacker101.com/) |
 | PicoCTF		| Free computer security education program, with original created challenges to practice your skills in different domains. | [PicoCTF](https://picoctf.org/) |
-| PortSwigger		| PortSwigger is a widely-used platform for web application security testing and ethical hacking. | [PortSwigger](https://portswigger.net/web-security/all-labs) |
-| CTF Hacker101  | The Hacker101 CTF is a game designed to let you learn to hack in a safe, rewarding environment. Hacker101 is a free educational site for hackers.|[CTF Hacker101](https://ctf.hacker101.com/)|
-| Hack The Box | An online platform to test and advance your skills in penetration testing and cyber security. Join today and start training in our online labs. |[Hack The Box :: Penetration Testing Labs](https://www.hackthebox.eu)|
-[TryHackMe](https://tryhackme.com) | TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs.
-[CTF365](https://ctf365.com/) | An account based ctf site, awarded by Kaspersky, MIT, T-Mobile.
-[Backdoor](https://backdoor.sdslabs.co) | Pen testing labs that have a space for beginners, a practice arena and various competitions, account required.
-[Hack.me](https://hack.me/) | Lets you build/host/attack vulnerable web apps.
-[CTFLearn](https://ctflearn.com/) | An account-based ctf site, where users can go in and solve a range of challenges.
-[OWASP Vulnerable Web Applications Directory Project (Online)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps) | List of online available vulnerable applications for learning purposes.
-[Pentestit labs](https://lab.pentestit.ru) | Hands-on Pentesting Labs (OSCP style)
-[Root-me.org](https://www.root-me.org) | Hundreds of challenges are available to train yourself in different and not simulated environments
-[Vulnhub.com](https://www.vulnhub.com) | Vulnerable By Design VMs for practical 'hands-on' experience in digital security
-[Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) | Practice your Linux and Windows privilege escalation.
-[Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) | CTF Breif Write up collection with a lot of screenshots good for beggainers.
-[Rafay Hacking Articles, a great blog](http://www.rafayhackingarticles.net/) | Write up collections by Rafay Baloch.
-[PentesterLab](https://pentesterlab.com/) | 20$ signature, complete content basic to write exploits, web, android.
-[CyberSec WTF](https://cybersecurity.wtf/)| Emulated web pentesting challenges from bounty write-ups
+| PortSwigger		| PortSwigger is a widely-used platform for web application security testing and ethical hacking. | [PortSwigger](https://portswigger.net/web-security/all-labs) 
+|     CTF Hacker101      | The Hacker101 CTF is a game designed to let you learn to hack in a safe, rewarding environment. Hacker101 is a free educational site for hackers. | [CTF Hacker101](https://ctf.hacker101.com/) |
+|        CTF365          | An account based ctf site, awarded by Kaspersky, MIT, T-Mobile.              | [CTF365](https://ctf365.com/) |
+|       Backdoor         | Pen testing labs that have a space for beginners, a practice arena and various competitions, account required. | [Backdoor](https://backdoor.sdslabs.co) |
+|       Hack.me          | Lets you build/host/attack vulnerable web apps.                             | [Hack.me](https://hack.me/) |
+|      CTFLearn          | An account-based ctf site, where users can go in and solve a range of challenges. | [CTFLearn](https://ctflearn.com/) |
+|  OWASP Vulnerable Web Applications Directory Project (Online) | List of online available vulnerable applications for learning purposes. | [OWASP Vulnerable Web Applications Directory Project (Online)](https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project#tab=On-Line_apps) |
+|     Pentestit labs     | Hands-on Pentesting Labs (OSCP style)                                    | [Pentestit labs](https://lab.pentestit.ru) |
+|      Root-me.org       | Hundreds of challenges are available to train yourself in different and not simulated environments | [Root-me.org](https://www.root-me.org) |
+|       Vulnhub.com      | Vulnerable By Design VMs for practical 'hands-on' experience in digital security | [Vulnhub.com](https://www.vulnhub.com) |
+| Windows / Linux Local Privilege Escalation Workshop | Practice your Linux and Windows privilege escalation. | [Windows / Linux Local Privilege Escalation Workshop](https://github.com/sagishahar/lpeworkshop) |
+|    Hacking Articles    | CTF Brief Write up collection with a lot of screenshots good for beginners. | [Hacking Articles](http://www.hackingarticles.in/ctf-challenges1/) |
+| Rafay Hacking Articles, a great blog | Write up collections by Rafay Baloch.                             | [Rafay Hacking Articles, a great blog](http://www.rafayhackingarticles.net/) |
+|      PentesterLab      | 20$ signature, complete content basic to write exploits, web, android.   | [PentesterLab](https://pentesterlab.com/) |
+|    CyberSec WTF        | Emulated web pentesting challenges from bounty write-ups               | [CyberSec WTF](https://cybersecurity.wtf/) |
 
 Go ahead a knock yourself out.
 
@@ -459,28 +485,6 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 | [Beef](https://github.com/beefproject/beef)      | **Javascript** | `Linux/Windows/macOS` | The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser. |
 | [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)      | **Python** | `Linux/Windows/macOS` | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
 | [Burp Suite](https://portswigger.net/burp)      | **Java** | `Linux/Windows/macOS` | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. **This tool is not free and open source** |
-
-# Additional resources
-
-- [Devbreak on Twitter](https://twitter.com/DevbreakFR)
-- [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
-- [Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
-- [Awesome-Hacking Lists](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
-- [Crack Station](http://crackstation.net/)
-- [Exploit Database](http://www.exploit-db.com/)
-- [Hackavision](http://www.hackavision.com/)
-- [Hackmethod](https://www.hackmethod.com/)
-- [Packet Storm Security](http://packetstormsecurity.org/)
-- [SecLists](http://seclists.org/)
-- [SecTools](http://sectools.org/)
-- [Smash the Stack](http://smashthestack.org/)
-- [Don't use VPN services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
-- [How to Avoid Becoming a Script Kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie)
-- [2017 Top 10 Application Security Risks](https://www.owasp.org/index.php/Top_10-2017_Top_10)
-- [Starting in cybersecurity ?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
-
-I would highly advise you guys to go and checkout [sundowndev](https://github.com/sundowndev/hacker-roadmap)
-
 #
 
 # Testing
@@ -666,6 +670,90 @@ Certainly, here's a more detailed list
 8. **Evernote:** Note-taking and organization tool for documentation.
 9. **Git/GitHub:** Version control system and platform for collaborating on documentation.
 10. **Wireshark:** Network protocol analyzer that helps with documentation and analysis.
+
+
+Certainly, here's the provided content formatted as requested:
+# Additional resources
+
+- [Devbreak on Twitter](https://twitter.com/DevbreakFR)
+- [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
+- [Find an awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
+- [Awesome-Hacking Lists](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
+- [Crack Station](http://crackstation.net/)
+- [Exploit Database](http://www.exploit-db.com/)
+- [Hackavision](http://www.hackavision.com/)
+- [Hackmethod](https://www.hackmethod.com/)
+- [Packet Storm Security](http://packetstormsecurity.org/)
+- [SecLists](http://seclists.org/)
+- [SecTools](http://sectools.org/)
+- [Smash the Stack](http://smashthestack.org/)
+- [Don't use VPN services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
+- [How to Avoid Becoming a Script Kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie)
+- [2017 Top 10 Application Security Risks](https://www.owasp.org/index.php/Top_10-2017_Top_10)
+- [Starting in cybersecurity ?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
+
+I would highly advise you guys to go and checkout [sundowndev](https://github.com/sundowndev/hacker-roadmap)
+
+
+# Malware Analysis
+
+| Name | Description |
+| ---- | ----------- |
+| [Malware traffic analysis](http://www.malware-traffic-analysis.net/) | List of traffic analysis exercises |
+| [Malware Analysis - CSCI 4976](https://github.com/RPISEC/Malware/blob/master/README.md) | Another class from the folks at RPISEC, quality content |
+| [Bad Binaries](https://www.badbinaries.com/) | Walkthrough documents of malware traffic analysis exercises and some occasional malware analysis. |
+
+# Linux Penetration Testing OS
+
+| Name | Description |
+| ---- | ----------- |
+| [Kali](http://kali.org/) | The infamous pentesting distro from the folks at Offensive Security |
+| [Parrot](https://www.parrotsec.org/) | Debian includes full portable lab for security, DFIR, and development |
+| [Android Tamer](https://androidtamer.com//) | Android Tamer is a Virtual / Live Platform for Android Security professionals. |
+| [BlackArch](https://blackarch.org/index.html) | Arch Linux based pentesting distro, compatible with Arch installs |
+| [LionSec Linux](https://lionsec-linux.org/) | Pentesting OS based on Ubuntu |
+
+# Courses
+
+1. [Computer Systems Security, MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video-lectures/)
+2. [Cisco's courses](https://www.netacad.com/courses/cybersecurity)
+3. [Cybrary](https://www.cybrary.it/catalog/cybersecurity/)
+4. [Hackers Academy](https://hackersacademy.com/)
+
+For those who want to do CEH, the following links are for you.
+2. [CBT Nuggets CEH Training](http://goo.gl/JuW85U)
+3. [CEH Books](https://goo.gl/gjCBLK)
+4. [Guide to Binary Exploitation](https://github.com/r0hi7/binexp)
+
+# Workshops/Playlists
+
+1. [Web Hacking](https://www.youtube.com/playlist?list=PLJM73L2pQRd4lXBZjsHAmeEqsn5pENXxN)
+2. [Ethical Hacking, A Comprehensive Playlist covering almost everything](https://www.youtube.com/playlist?list=PLkRo97mCIn9lgvE7AskNsmwJVOlJX2zaI)
+
+# Security Talks and Conferences
+
+1. [InfoCon - Hacking Conference Archive](https://infocon.org/cons/)
+2. [Curated list of Security Talks and Videos](https://github.com/PaulSec/awesome-sec-talks)
+3. [Blackhat](https://www.youtube.com/user/BlackHatOfficialYT)
+4. [Defcon](https://www.youtube.com/user/DEFCONConference)
+5. [Security Tube](http://www.securitytube.net/)
+6. [Kevin Mitnick: Live Hack at CeBIT](https://www.youtube.com/watch?v=Q7G3kKRdUl4)
+7. [Ghost in the Cloud, Kevin Mitnick](https://www.youtube.com/watch?v=76yrWGzScgI)
+8. [Kevin Mitnick | Talks at Google](https://www.youtube.com/watch?v=aUqes9QdLQ4)
+9. [Complete Free Hacking Course: Go from Beginner to Expert Hacker Today](https://www.youtube.com/watch?v=7nF2BAfWUEg)
+
+Here's the provided content formatted as requested:
+
+# Forums
+
+| Name | Description |
+| ---- | ----------- |
+| [0x00sec](https://0x00sec.org/) | Hacker, malware, computer engineering, reverse engineering |
+| [Antichat](https://forum.antichat.ru/) | Russian-based forum |
+| [CODEBY.NET](https://codeby.net/) | Hacker, WAPT, malware, computer engineering, reverse engineering, forensics - Russian-based forum |
+| [EAST Exploit database](http://eastexploits.com/) | Exploit DB for commercial exploits written for EAST Pentest Framework |
+| [Greysec](https://greysec.net) | Hacking and security forum |
+| [Hackforums](https://hackforums.net/) | Posting website for hacks, exploits, and various discussions |
 
 These tools cover various aspects of ethical hacking and penetration testing, but remember that ethical hacking requires responsible and legal use. Always ensure you have proper authorization before using any tools on a target environment.
 
