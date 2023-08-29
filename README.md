@@ -15,6 +15,8 @@
 	- [Logs](#logs)
 - [Privilege Escalation](#privilege-escalation)
 - [Tools](#tools)
+- [Testing](#Testing)
+- [Tools and resouces](#Tools and resouces)
 
 
 # Ethical-hacking
@@ -564,7 +566,7 @@ Ensure you have permission before conducting any testing!
 
 # ----- End of Checklist -----
 
-#
+# Tools and resouces
 **Tools and Resources:**
 
 Certainly, here's a more detailed list 
