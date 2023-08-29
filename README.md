@@ -16,7 +16,7 @@
 - [Privilege Escalation](#privilege-escalation)
 - [Tools](#tools)
 - [Testing](#Testing)
-- [Tools and resouces](#Tools and resouces)
+- [Tools and resouces](#Tools-and-resouces)
 
 
 # Ethical-hacking
