@@ -3,9 +3,8 @@
 - [Introduction](#introduction)
 	- [Youtubers](#youtubers)
 	- [Where to practice ?](#where-to-practice-)
-		- 
 		- [Platforms](#platforms)
-- [Before Hacking](#before-hacking)
+		- [Before Hacking](#before-hacking)
 - [Steps of Pen-Testing](#steps-of-pen-testing)
 - [Enumeration](#enumeration)
 	- [NMAP](#nmap)
@@ -14,9 +13,16 @@
 	- [DNS](#dns)
 	- [Logs](#logs)
 - [Privilege Escalation](#privilege-escalation)
-- [Tools](#tools)
+	- [Tools](#tools)
 - [Testing](#Testing)
 - [Tools and resouces](#Tools-and-resouces)
+	- # Additional resources
+ 		- # Malware Analysis
+   		- # Linux Penetration Testing OS
+   		- # Courses
+  		- # Workshops/Playlists
+  		- # Security Talks and Conferences
+  		- # Forums
 
 
 # Ethical-hacking
