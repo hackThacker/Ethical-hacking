@@ -110,6 +110,7 @@ Here's a list of one the best youtubers I personally follow.
 | NetworkChuck  | If you are looking where to learn very basic stuff with a fun way, this guy is yours.		 | [Link](https://www.youtube.com/c/NetworkChuck) |
 | CryptoCat		| Although this channel is newly, it has some really great content you definetly should check | [link](https://www.youtube.com/c/CryptoCat23) |
 | HackerSploit  | This one explains tools, and does HackTheBox retired machines. And also does real life scenarios hacking | [Link](https://www.youtube.com/c/HackerSploit) |
+Here's the list with the content reformatted as requested:
 | Black Hat | ... | [link](https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg) |
 | Injector Pca | ... | [link](https://www.youtube.com/channel/UCRFG_j0cgLWtJOG6fl_-rxQ) |
 | Hisham Mir | ... | [link](https://www.youtube.com/channel/UCYTK8lk8oLLaA330rqd0qgA) |
@@ -137,6 +138,7 @@ Here's a list of one the best youtubers I personally follow.
 | PwnFunction | ... | [link](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A) |
 | GetCyber | ... | [link](https://www.youtube.com/@GetCyber/videos) |
 
+I've formatted the table according to your desired style. If you have specific descriptions for each channel, feel free to replace the "..." with the appropriate information.
 
 
 ### Platforms
